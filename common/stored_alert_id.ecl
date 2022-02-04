@@ -1,0 +1,1 @@
+﻿EXPORT string stored_alert_id := '' : stored('alertId');

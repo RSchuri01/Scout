@@ -1,0 +1,1 @@
+﻿EXPORT string stored_export_requested_user := '' : stored('exportRequestedUser'); 

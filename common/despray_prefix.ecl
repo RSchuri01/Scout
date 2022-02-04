@@ -1,0 +1,1 @@
+﻿EXPORT despray_prefix := '~thor::scout::despray';

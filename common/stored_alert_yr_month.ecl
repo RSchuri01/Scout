@@ -1,0 +1,1 @@
+﻿EXPORT string stored_alert_yr_month := '' : stored('alert_yr_month');

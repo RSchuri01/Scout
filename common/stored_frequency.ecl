@@ -1,0 +1,1 @@
+﻿EXPORT string stored_frequency := 'daily' : stored('frequency'); 

@@ -1,0 +1,1 @@
+﻿export string4 STORED_MYSQL_ENV := 'dev' : stored('mysql_env');
